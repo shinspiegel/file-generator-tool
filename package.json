@@ -1,0 +1,24 @@
+{
+    "name": "file-generator-tool",
+    "version": "0.0.3",
+    "main": "./index.js",
+    "bin": {
+        "file-generator-tool": "./index.js",
+        "gen": "./index.js"
+    },
+    "repository": "github:shinspiegel/react-generator",
+    "author": {
+        "name": "Jeferson 'Shin'",
+        "email": "shin.jef@gmail.com",
+        "url": "https://jeferson.me"
+    },
+    "description": "Helper to generate files on the fly for components",
+    "keywords": [
+        "react",
+        "code generator",
+        "components"
+    ],
+    "homepage": "https://github.com/shinspiegel/file-generator-tool",
+    "bugs": "https://github.com/shinspiegel/file-generator-tool/issues",
+    "license": "MIT"
+}

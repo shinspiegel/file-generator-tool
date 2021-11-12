@@ -1,0 +1,5 @@
+{
+    "files": ["index.js", "index.css", "index.test.js"],
+    "sourceFolder": "assets/comp",
+    "destinyFolder": "app"
+}
