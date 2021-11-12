@@ -1,6 +1,6 @@
 {
     "name": "file-generator-tool",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "main": "./index.js",
     "bin": {
         "file-generator-tool": "./index.js",

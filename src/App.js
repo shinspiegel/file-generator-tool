@@ -51,7 +51,8 @@ class App {
         }
 
         if (process.argv[3]) {
-            this.destinyFolder = process.argv[3];
+            this.destinyFolder = process.argv[2];
+            this.componentName = StringHelper.capitalize(process.argv[3]);
         }
     }
 
